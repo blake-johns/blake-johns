@@ -9,7 +9,6 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m Blake Johnson
 - 👀 I’m interested in Finance, Data Science, Programming, and Machine Learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -20,15 +19,11 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/blake-johns/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/blake-johnson-78a615143/)
 
-
-
-
-
-
 ---
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blake-johns&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blake-johns&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
@@ -44,13 +39,9 @@
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=blake-johns)
 
+---
 
-
-
-
-
-
-
+### :fire: My Programming Languages :
 
 <h4 align="left">Languages and tools</h3>
 
